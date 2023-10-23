@@ -44,7 +44,7 @@ namespace Projeto.View
 
 
 
-            lbl_resultado.Text = "O maior valor é : " + maior;
+            lbl_resultado.Text = "Primeiro Valor: " + num + "\nSegundo Valor:" + num2 + "\nTerceiro Valor: " + num3 + "\nO maior valor é : " + maior;
 
 
 
